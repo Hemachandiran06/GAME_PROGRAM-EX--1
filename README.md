@@ -1,4 +1,4 @@
-# G# GAME_PROGRAM-EX--1
+#GAME_PROGRAM-EX--1
 # EXP:1 Implementing various effects in a material such as emissive, roughness and metallic properties in Unreal Engine
 
 ## Aim
@@ -49,4 +49,4 @@ Successfully implemented a material in Unreal Engine showcasing:
 - Metallic appearance adjustment to reflect light like real-world metals.
 
 This setup enables dynamic, realistic materials suitable for use in environments, characters, and VFX in Unreal Engine projects.
-AME_PROGRAM-EX--1
+
